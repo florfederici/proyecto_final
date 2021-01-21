@@ -1,0 +1,78 @@
+body {
+  background-color: #3d7513; }
+
+.container {
+  background-color: #b9f5b3; }
+
+ul li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: bolder; }
+
+  .navbar-brand img:hover {
+  filter: saturate(180%);
+  }
+
+.cajaformulario__transicion {
+  width: 200px;
+  height: 25px;
+  transition: all 4s; }
+
+.cajaformulario__transicion:focus {
+  width: 300px; }
+
+.cajaformulario__formulario {
+  background-color: #eef564;
+  padding-left: 90px;
+  border-color: #d97f09;
+  border-style: solid;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.cajaformulario__contactoimagen {
+  width: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.listadeservicios {
+  font-size: 20px; }
+
+.TotalDeCabanias {
+  font-family: 'Kameron', serif;
+  margin-top: 20px;
+  margin-bottom: : 20px; }
+
+.cajaservicios {
+  margin-top: 20px;
+  margin-bottom: 40px; }
+
+.video {
+  margin-top: 30px;
+  margin-bottom: 20px; }
+
+.lead ul li {
+  font-family: 'Darker Grotesque', sans-serif; }
+
+.galeria img:hover {
+  -webkit-transform:scale(1.3);
+  transform:scale(1.3); }
+
+.galeria {
+  overflow:hidden; }
+
+.Ubicacion__Parrafo h5 {
+  padding-right: 20px; }
+
+  iframe {
+    overflow:hidden;
+  }
+
+.Footer__titulo {
+  font-family: 'Jura', sans-serif; }
+
+.Footer__FormasDeContacto {
+  font-family: 'Jura', sans-serif; }
+
+.Footer__caja {
+  background-image: linear-gradient(#f2faf7, #9df5a5); }
